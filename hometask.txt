@@ -1,3 +1,13 @@
 В файле README добавился текст после точки
 
 В файле human.txt у 'человека' изменилась шапка и пуговицы
+
+commits:
+init
+heat added
+boots
+README added
+dots
+fix readme
+abcd
+1 master commit
